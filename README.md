@@ -37,4 +37,4 @@
 5. `telecom_operator` - поиск потенциальных клиентов, собирающихся расторгнуть договор по услугам связи, и разработка модели МО для предоставления им особых тарифов
 6. `auto_sales` - определение рыночной стоимости автомобилей по их техническим характеристикам и истории
 
-<img src = "DmitrenkoAD/photos/blob/main/hr_analytics.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/negative_commentaries_searching.png" width = "250"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/oil_business.jpg" width = "250"/>
+<img src = "https://github.com/DmitrenkoAD/photos/blob/main/hr_analytics.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/negative_commentaries_searching.png" width = "250"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/oil_business.jpg" width = "250"/>
