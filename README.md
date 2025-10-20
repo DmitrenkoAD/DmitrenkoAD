@@ -6,7 +6,7 @@
 - Работал в организации СберМобайл (ООО "Сбербанк - ТЕЛЕКОМ") с 03.03.2025 по 29.08.2025 на позиции Дата - аналитик (DA)
 
   
-<img src = "https://github.com/DmitrenkoAD/photos/blob/main/bmstu.png" width = "320" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/sbertelecom.jpg" width = "320"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/yandex.jpeg" width = "320"/>
+<img src = "https://github.com/DmitrenkoAD/photos/blob/main/bmstu.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/sbertelecom.jpg" width = "250"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/yandex.jpeg" width = "250"/>
 
 ### Навыки
 - Python
