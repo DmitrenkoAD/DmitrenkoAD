@@ -5,6 +5,7 @@
 - На странице опубликованы проекты по DS, которые я уже успел выполнить в ходе обучения в яндекс практикуме
 - Работал в организации СберМобайл (ООО "Сбербанк - ТЕЛЕКОМ") с 03.03.2025 по 29.08.2025 на позиции Дата - аналитик (DA)
 ![alt text](https://github.com/DmitrenkoAD/photos/blob/main/bmstu.png)
+![alt text](https://github.com/DmitrenkoAD/photos/blob/main/bmstu.png)
 ### Навыки
 - Python
 - SQL(PostgreSQL)
