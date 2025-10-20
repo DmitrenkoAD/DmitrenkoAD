@@ -26,4 +26,6 @@
 <img src = "https://github.com/DmitrenkoAD/photos/blob/main/matplotlib.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/seaborn.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/scikit_learn.png" width = "250" />
 <img src = "https://github.com/DmitrenkoAD/photos/blob/main/catboost.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/xgboost.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/lightgbm.png" width = "250" />
 
+### Реализованные проекты
+
 
