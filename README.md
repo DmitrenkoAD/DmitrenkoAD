@@ -38,3 +38,4 @@
 6. `auto_sales` - определение рыночной стоимости автомобилей по их техническим характеристикам и истории
 
 <img src = "https://github.com/DmitrenkoAD/photos/blob/main/hr_analytics.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/negative_commentaries_searching.png" width = "250"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/oil_business.jpg" width = "250"/>
+<img src = "https://github.com/DmitrenkoAD/photos/blob/main/online_store.jpg" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/telecom_operator.jpg" width = "250"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/584x438.png" width = "250"/>
