@@ -20,11 +20,13 @@
 - Scikit - learn
 - Catboost, XGboost, LightGBM
 - PyTorch
+- NLTK
 
 <img src = "https://github.com/DmitrenkoAD/photos/blob/main/python.jpg" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/SQL.jpg" width = "250"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/oracle_db.png" width = "250"/>
 <img src = "https://github.com/DmitrenkoAD/photos/blob/main/pandas.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/numpy.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/scipy.png" width = "250" />
 <img src = "https://github.com/DmitrenkoAD/photos/blob/main/matplotlib.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/seaborn.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/scikit_learn.png" width = "250" />
 <img src = "https://github.com/DmitrenkoAD/photos/blob/main/catboost.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/xgboost.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/lightgbm.png" width = "250" />
+<img src = "https://github.com/DmitrenkoAD/photos/blob/main/pytorch.png" width = "250" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/nltk.png" width = "250" />
 
 ### Реализованные проекты
 
