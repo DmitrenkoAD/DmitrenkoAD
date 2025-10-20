@@ -4,7 +4,7 @@
 - Прошёл курс `Специалист по Data Science` в яндекс практикуме. Закончил обучение 15.10.2024
 - На странице опубликованы проекты по DS, которые я уже успел выполнить в ходе обучения в яндекс практикуме
 - Работал в организации СберМобайл (ООО "Сбербанк - ТЕЛЕКОМ") с 03.03.2025 по 29.08.2025 на позиции Дата - аналитик (DA)
-<img src = "https://github.com/DmitrenkoAD/photos/blob/main/bmstu.png" width = "350" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/sbertelecom.jpg" width = "350"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/yandex.jpeg" width = "350"/>
+<img src = "https://github.com/DmitrenkoAD/photos/blob/main/bmstu.png" width = "320" /> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/sbertelecom.jpg" width = "320"/> <img src = "https://github.com/DmitrenkoAD/photos/blob/main/yandex.jpeg" width = "320"/>
 
 ### Навыки
 - Python
