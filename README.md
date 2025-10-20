@@ -11,9 +11,16 @@
 ### Навыки
 - Python
 - SQL(PostgreSQL)
+- Oracle
 - Pandas
 - NumPy
-- Scikit - learn
+- SciPy
 - Matplotlib
 - Seaborn
+- Scikit - learn
+- Catboost, XGboost, LightGBM
+- PyTorch
+
+  
+
 
